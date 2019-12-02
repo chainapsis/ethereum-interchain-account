@@ -1,0 +1,20 @@
+{
+  "name": "ethereum-interchain-account",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "truffle deploy",
+    "test": "truffle test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "truffle": "^5.1.2",
+    "web3": "^1.2.4"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^2.4.0"
+  }
+}
